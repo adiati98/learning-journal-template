@@ -1,18 +1,24 @@
-# 100-days-of-oss-template
+# Learning Journal Template
 
-A journal template to help you keep up with your #100DaysOfOSS work.
+A learning journal template to help you track your learning journey and to keep you accountable.
+
+_This template is generated and adapted from the [100-days-of-OSS-template](https://github.com/open-sauced/100-days-of-oss-template) by OpenSauced._
 
 ## Instructions
 
-We recommend that you use this template to keep track of your work during the challenge. You can use it as a starting point and customize it to your needs.
+If you want to learn alone, we recommend using this template to keep track of your learning and keep you accountable, especially during the **Month of Learning challenge** at [Virtual Coffee](https://virtualcoffee.io/). You can use it as a starting point, customize it to your needs, and record your progress even after the challenge ends.
 
-You will use Markdown to work on your progress. If you are not familiar with working with Markdown, you can read the docs about [Markdown's basic syntax](https://www.markdownguide.org/basic-syntax/).
+You will use Markdown to work on your progress. If you need to familiarize yourself with Markdown, you can read the docs about [Markdown's basic syntax](https://www.markdownguide.org/basic-syntax/).
 
-You might want to create a new repository for your journal, or you can fork this repository and use it as a starting point. Read more about how to do it in the [Getting Started](#getting-started) section.
+You can create a new repository for your journal or you can fork this repository. Read more about how to do it in the [Getting Started](#getting-started) section.
 
 ## Set a Goal
 
-Before you start, set a goal for yourself. What do you want to accomplish in the next 100 days? What do you want to learn? What do you want to build or be a part of? Declaring that in your README will help you stay focused and motivated and help others understand what you're working on.
+Before you start, set a goal for yourself. Set weekly goals and/or goals for the month. Then ask yourself, will setting weekly goals help you achieve your goals for the month?
+
+For example, you may want to learn accessibility for 1 hour/week, 10 hours/week, or complete one lesson/day. Maybe your goal involves creation. You may want to write an article, a lightning talk, or a conference talk based on your learning. The sky is the limit!
+
+Declaring that in your README will help you stay focused and motivated. Take a look at the [`readme-template.md`]() for inspiration.
 
 ## Getting Started
 
@@ -26,7 +32,7 @@ There are a couple of ways to use this template. You can create a new repository
 2. Click the "Create new repository" from the dropdown menu.
 3. Fill in the repository name and description (optional). Leave the "Include all branches" checkbox unchecked — you only want the default branch.
 4. Click the green "Create repository" button.
-5. Follow steps 3-9 in the [Forking This Repository](#forking-this-repository) section below to work on your OSS progress.
+5. Follow steps 3-9 in the [Forking This Repository](#forking-this-repository) section below to record your learning progress.
 
 ### Forking This Repository
 
@@ -44,19 +50,11 @@ There are a couple of ways to use this template. You can create a new repository
      Paste the HTTPS link that you've copied. For example:
 
      ```bash
-     git clone https://github.com/username/100-days-of-oss-template.git
+     git clone https://github.com/username/learning-journal-template.git
      ```
 
-3. Create a new file and name this file anything you want, e.g., `my-oss-journal.md`. This file will be where you update your #100DaysofOSS progress. You can use the template in the `journal.md` file. Copy and paste the template into your progress track file, and customize it to your need.
-4. Update the `table-of-contents.md` file by adding the link to the target day in the progress track file.
-   ```markdown
-   [Day X](file-name.md#day-x)
-   ```
-   For example:
-   ```markdown
-   [Day 1](my-oss-journal.md#day-1)
-   ```
-5. Create a new branch for each challenge day if you want to keep your work separate.
+3. Create a new file and name this file anything you want, e.g., `my-learning-journal.md`. This file will be where you update your learning progress. You can use the template in the `journal.md` file. Copy and paste the template into your progress track file, and customize it to your need.
+4. Create a new branch for each challenge day if you want to keep your work separate.
 
    - In your terminal, run this command:
 
@@ -69,6 +67,15 @@ There are a couple of ways to use this template. You can create a new repository
      ```bash
      git checkout -b day-1
      ```
+
+5. Update the `table-of-contents.md` file by adding the link to the target day in the progress track file.
+   ```markdown
+   [Day X](file-name.md#day-x)
+   ```
+   For example:
+   ```markdown
+   [Day 1](my-learning-journal.md#day-1)
+   ```
 
 6. Add and commit your work to your branch.
 
@@ -106,18 +113,12 @@ There are a couple of ways to use this template. You can create a new repository
    - Modify the title if necessary and write the description of your changes.
    - Create a pull request by clicking the green "Create pull request" button.
    - Merge your changes into the `main` branch by clicking the green "Merge pull request" and the "Confirm merge" button.
-9. Repeat steps 5-8 for each day of the challenge.
+9. Repeat steps 4-8 for each day of the challenge.
 
-## Tips for making the most out of #100DaysOfOSS
+## Tips for making the most out of Month of Learning challenge
 
-- Use the `table-of-contents.md` file to keep track of your work.
-- Commit your work every day, even if you only have time to work on it for a short time.
-- If you don't have time to work on a project, read an article, watch a video, or attend an event about an OSS topic that interests you.
-- If you need help, ask for help! You can ask a friend, a mentor, or the community for help.
-- If you get bored, try something new! There are so many ways to contribute to OSS. You can write code, documentation, test software, translate content, and more.
-- If you get frustrated, take a break. OSS is supposed to be fun! If you're not having fun, take a break and come back to it later.
+- Use the `table-of-contents.md` file to keep track of your learning.
+- Update your journal daily, even if you only have time to learn briefly.
+- If you need help, ask for help! You can ask a friend, a mentor, or the community for help. In Virtual Coffee, you can ask for one in the `#help-and-pairing` channel on Slack.
+- Share your progress with the community or in public regularly. It will motivate you, keep you accountable, and inspire others, too
 
-## Additional Resources
-
-- [#100DaysOfOSS](https://docs.opensauced.pizza/community/100-days-of-oss/)
-- [OpenSauced](https://opensauced.pizza/)
