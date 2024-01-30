@@ -20,12 +20,12 @@
 
 **Today's progress:**
 
-- I learned about lists in HTML: unordered list (`<ul>`), ordered list (`<ol>`) and description list (`<dl>`).
+- I learned about lists in HTML: unordered list (`<ul>`), ordered list (`<ol>`), and description list (`<dl>`).
 - I drafted my learning to be published as a blog post.
 
 **Challenges faced:**
 
-- I still need to understand the use of `<dl>` and when is best to apply it.
+- I still need to understand the use of `<dl>` and when it is best to apply it.
 
 **Wins:**
 
