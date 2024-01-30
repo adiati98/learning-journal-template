@@ -50,7 +50,7 @@ There are a couple of ways to use this template. You can create a new repository
      Paste the HTTPS link that you've copied. For example:
 
      ```bash
-     git clone https://github.com/username/learning-journal-template.git
+     git clone https://github.com/<username>/learning-journal-template.git
      ```
 
 3. Create a new file and name this file anything you want, e.g., `accessibility-learning-journal.md`. This file will be where you update your learning progress. You can use the template in the [`journal-template.md`](./journal-template.md) file. Copy and paste the template into your progress track file, and customize it to your need.
