@@ -18,7 +18,7 @@ Before you start, set a goal for yourself. Set weekly goals and/or goals for the
 
 For example, you may want to learn accessibility for 1 hour/week, 10 hours/week, or complete one lesson/day. Maybe your goal involves creation. You may want to write an article, a lightning talk, or a conference talk based on your learning. The sky is the limit!
 
-Declaring that in your README will help you stay focused and motivated. Take a look at the [`readme-template.md`]() for inspiration.
+Declaring that in your README will help you stay focused and motivated. Take a look at the [`readme-template.md`](./readme-template.md) for inspiration.
 
 ## Getting Started
 
@@ -121,5 +121,5 @@ There are a couple of ways to use this template. You can create a new repository
 ## Tips for making the most out of Month of Learning challenge
 
 - Update your journal daily, even if you only have time to learn briefly.
-- If you need help, ask for help! You can ask a friend, a mentor, or the community for help. In Virtual Coffee, you can ask for one in the `#help-and-pairing` channel on Slack.
+- If you need help, ask for help! You can ask a friend, a mentor, or the community for help. <br> In Virtual Coffee, you can ask for one in the `#help-and-pairing` channel on Slack.
 - Share your progress with the community or in public regularly. It will motivate you, keep you accountable, and inspire others, too
